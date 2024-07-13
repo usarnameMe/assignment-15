@@ -1,3 +1,4 @@
+
 CREATE TABLE cars (
     id INT PRIMARY KEY,
     model VARCHAR(255),
